@@ -10,4 +10,4 @@
            * C++, SDL(Simple Directmedia Layer)
  
  ### 4. 프로그램 실행 화면
-<img width="246" alt="캡처" src="https://user-images.githubusercontent.com/55692618/98442394-aa63e480-2147-11eb-9f84-c5167415a5ff.PNG">
+<img width="329" alt="d1d" src="https://user-images.githubusercontent.com/55692618/98442479-32e28500-2148-11eb-9a75-0046559c71e0.PNG">
